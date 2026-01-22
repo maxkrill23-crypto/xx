@@ -3,6 +3,9 @@
 #EXTINF:0,MyCamTV Teen Girls
 #EXTGRP:Каналы 18+ 
 http://live.mycamtv.com/teen.m3u8
+#EXTINF:0,Brazzers TV Europe HD
+#EXTGRP:Каналы 18+
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:0,MyCamTV MILF
 #EXTGRP:Каналы 18+
 http://live.mycamtv.com/milf.m3u8
@@ -139,7 +142,7 @@ http://31.148.48.15:80/O-la-la/index.m3u8
 #EXTINF:-1,Playboy HD
 #EXTGRP:Каналы 18+
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1,Porn Classic
+#EXTINF:-1,Porn Classi
 #EXTGRP:Каналы 18+
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 
@@ -2625,3 +2628,5 @@ http://video2.tizam.cc/files/2234711/film_internet_znakomstva.mp4
 #EXTGRP:Видео 18+
 http://video2.tizam.cc/files/2234710/film_bulki._vvedenie.mp4
 #EXTINF:0,Королевская шлюха / La Putain du Roi 
+#EXTGRP:Видео 18+
+http://video1.tizam.cc/vk/LaPutainDuRoi.mp4
